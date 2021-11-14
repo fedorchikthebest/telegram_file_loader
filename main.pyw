@@ -3,7 +3,7 @@ import os
 from threading import Thread
 import pyautogui
 
-TOKEN = '2105955734:AAHEcf0wmL7us_sY2ZIa6XnV67FI176iWOE'
+TOKEN = 'Ваш токен'
 bot = telebot.TeleBot(TOKEN)
 
 
